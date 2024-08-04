@@ -5,7 +5,7 @@ My lightweight Astro starter template
 ## Features
 
 - [Dark/light mode toggle](https://docs.astro.build/en/tutorial/6-islands/2/)
-- Emoji favicon
+- [Emoji favicon](https://css-tricks.com/emoji-as-a-favicon/)
 - [Fixel font](https://fixel.macpaw.com/)
 - TS config `"@/*": ["./src/*"]` path mapping
 - [View transitions](https://docs.astro.build/en/guides/view-transitions/)
