@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: "Fixel";
-  src: url("/fonts/FixelVariable.ttf") format("truetype");
+  src: url("./fonts/FixelVariable.ttf") format("truetype");
 }
 
 :root {
