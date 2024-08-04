@@ -15,10 +15,12 @@ Demo: https://lokimckay.github.io/astro-starter/
 
 ## Usage
 
-1. `npx degit lokimckay/astro-starter my-new-project`
-1. `cd my-new-project`
-1. `npm install`
-1. `npm start`
+```shell
+npx degit lokimckay/astro-starter my-new-project \
+cd my-new-project \
+npm install \
+npm start
+```
 
 ## Optional next steps
 
