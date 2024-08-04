@@ -1,0 +1,49 @@
+@import "./colors.css";
+@import "./nav.css";
+
+@font-face {
+  font-family: "Fixel";
+  src: url("/fonts/FixelVariable.ttf") format("truetype");
+}
+
+:root {
+  --body-font: "Fixel", Consolas, system-ui, sans-serif;
+  --code-font: Consolas, ui-monospace, monospace;
+  --page-padding: 1em;
+  --border-radius: 0.2em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: var(--page-padding);
+  padding-bottom: 10em;
+  font-family: var(--body-font);
+}
+
+main,
+nav,
+article {
+  margin: auto;
+  width: 40rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+code {
+  font-family: var(--code-font);
+}
+
+ul.unstyled,
+ol.unstyled,
+nav ul,
+nav ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
