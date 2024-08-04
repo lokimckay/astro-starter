@@ -2,6 +2,8 @@
 
 My lightweight Astro starter template
 
+Demo: https://lokimckay.github.io/astro-starter/
+
 ## Features
 
 - [Dark/light mode toggle](https://docs.astro.build/en/tutorial/6-islands/2/)
