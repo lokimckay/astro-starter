@@ -9,8 +9,9 @@ Demo: https://lokimckay.github.io/astro-starter/
 - [Dark/light mode toggle](https://docs.astro.build/en/tutorial/6-islands/2/)
 - [Emoji favicon](https://css-tricks.com/emoji-as-a-favicon/)
 - [Fixel font](https://fixel.macpaw.com/)
-- TS config `"@/*": ["./src/*"]` path mapping
 - [View transitions](https://docs.astro.build/en/guides/view-transitions/)
+- [MDX integration](https://docs.astro.build/en/guides/integrations-guide/mdx/)
+- TS config `"@/*": ["./src/*"]` path mapping
 - Github pages deployment
 
 ## Usage
@@ -24,9 +25,9 @@ npm start
 
 ## Optional next steps
 
-### Add preact integration
+### Add integrations
 
-https://docs.astro.build/en/guides/integrations-guide/preact/
+- [preact](https://docs.astro.build/en/guides/integrations-guide/preact)
 
 ### Remove github pages deployment
 
